@@ -1,0 +1,92 @@
+[26-Feb-2026 14:25:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:25:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:43:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:43:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:43:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:43:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:43:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 14:44:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:34:47 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\pro-elements\modules\display-conditions\classes\comparator-provider.php on line 4
+[26-Feb-2026 19:37:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:37:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:37:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:40:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:40:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 19:42:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 585728 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 21:55:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Feb-2026 22:52:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 22:52:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 22:53:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 22:53:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 22:54:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 23:02:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 23:08:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 23:13:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[26-Feb-2026 23:14:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 520192 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[27-Feb-2026 12:07:42 UTC] Automatic updates starting...
+[27-Feb-2026 12:07:43 UTC]   Automatic plugin updates starting...
+[27-Feb-2026 12:07:43 UTC]   Automatic plugin updates complete.
+[27-Feb-2026 12:07:45 UTC] Automatic updates complete.
