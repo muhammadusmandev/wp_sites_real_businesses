@@ -317,3 +317,47 @@
 [08-Mar-2026 14:23:21 UTC]   Automatic plugin updates starting...
 [08-Mar-2026 14:23:21 UTC]   Automatic plugin updates complete.
 [08-Mar-2026 14:23:22 UTC] Automatic updates complete.
+[08-Mar-2026 20:20:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:09:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:10:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:11:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:12:05 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:15:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:21:43 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:21:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:22:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:22:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:24:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:24:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:33:34 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:33:43 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:34:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:37:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:41:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:41:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:42:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:42:38 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:43:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:43:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 21:43:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[08-Mar-2026 22:03:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 561152 bytes) in F:\xampp\htdocs\wp_c\businessdemo\wp-includes\class-wpdb.php on line 2322
+[09-Mar-2026 12:25:52 UTC] Automatic updates starting...
+[09-Mar-2026 12:25:53 UTC]   Automatic plugin updates starting...
+[09-Mar-2026 12:25:53 UTC]   Automatic plugin updates complete.
+[09-Mar-2026 12:25:56 UTC] Automatic updates complete.
+[09-Mar-2026 14:23:19 UTC] Automatic updates starting...
+[09-Mar-2026 14:23:19 UTC]   Automatic plugin updates starting...
+[09-Mar-2026 14:23:19 UTC]   Automatic plugin updates complete.
+[09-Mar-2026 14:23:19 UTC] Automatic updates complete.
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[09-Mar-2026 15:02:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in F:\xampp\htdocs\wp_c\businessdemo\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[10-Mar-2026 11:29:54 UTC] Automatic updates starting...
+[10-Mar-2026 11:29:56 UTC]   Automatic plugin updates starting...
+[10-Mar-2026 11:29:56 UTC]   Automatic plugin updates complete.
+[10-Mar-2026 11:29:58 UTC] Automatic updates complete.
