@@ -451,3 +451,9 @@
 [2026-03-21 19:49:38 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Kendra Soliz &#8211; Licensed Financial Professional" has been purged, triggered by action: save_post 
 [2026-03-21 19:50:00 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/kendra-soliz-licensed-financial-professional/ has been purged, triggered by action: save_post 
 [2026-03-21 19:50:00 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Kendra Soliz &#8211; Licensed Financial Professional" has been purged, triggered by action: save_post 
+[2026-03-23 04:04:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-03-23 04:04:19 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
