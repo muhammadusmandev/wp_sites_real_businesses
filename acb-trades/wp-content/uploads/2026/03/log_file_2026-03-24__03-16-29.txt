@@ -18,3 +18,77 @@ New AJAX call!
 ------
 New AJAX call!
 
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Comments - Recent Comment - Imported
+Block - No Title - Imported
+Cleanu Recent Posts - Recent Post - Imported
+
+Service Sidebar : 
+
+Block - No Title - Imported
+Cleanu Service Image - Need any help? - Imported
+Cleanu Service Brochure Widget - Brochure - Imported
+
+Footer Sidebar 1 : 
+
+Block - No Title - Imported
+
+Footer Sidebar 1 (White Background) : 
+
+Block - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Navigation Menu - Quick Link - Imported
+
+Footer Sidebar 3 : 
+
+Navigation Menu - Services - Imported
+
+Footer Sidebar 4 : 
+
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: cleanu_option finished successfully!
+
+---ocdi/after_import---
+
