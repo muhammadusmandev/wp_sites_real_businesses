@@ -76,7 +76,8 @@ Sidebar heading:  20px 'Yantramanav', sans-serif
 
 /* Varialbes */
 :root {
-	--font-default: 'Yantramanav', sans-serif;
+	--font-default: 'Roboto', sans-serif;
+	--font-headings: 'Oswald', sans-serif;
 	--fontawesome: "Font Awesome 5 Pro";
 	--black: #000000;
 	--dark: #06278a;
@@ -137,7 +138,7 @@ h6 {
 	color:var(--color-heading);
 	font-weight: normal;
 	line-height: 1.2;
-	font-family:var(--font-default);
+	font-family:var(--font-headings);
 	letter-spacing: 0;
 	margin: 0;
 }
@@ -1201,15 +1202,10 @@ a.btn-simple:hover {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	font-size: 16px;
 }
 .top-bar-area .logo img {
-	height: 50px;
-}
-
-@media (min-width: 1200px) {
-	.top-bar-area .logo img {
-		height: 55px;
-	}
+	height: 58px;
 }
 
 .top-bar-area.transparent i {
@@ -1473,15 +1469,15 @@ a.btn-simple:hover {
 		padding-right: 40px;
 	}
 	.top-bar-area.multi-content .logo a::after {
-		position: absolute;
-		right: 0;
-		top: -60px;
-		content: "";
-		height: 200px;
-		width: 4000%;
-		background: var(--white);
-		z-index: -1;
-		transform: skewX(-15deg);
+	    position: absolute;
+        right: 0;
+        top: -135px;
+        content: "";
+        height: 200px;
+        width: 4000%;
+        background: var(--white);
+        z-index: -1;
+        transform: skewX(229deg);
 	}
 }
 
@@ -7563,6 +7559,7 @@ nav.navbar.bootsnav .navbar-collapse::-webkit-scrollbar-thumb { background: #a9a
 .faq-area .faq-content .card .card-body li {
     font-weight: 600;
     line-height: 2;
+	font-size: 14px;
 }
   .faq-area .faq-content .card .card-header h4 strong::after {
 	position: absolute;
@@ -8915,6 +8912,7 @@ nav.navbar.bootsnav.bg-dark ul.nav>li>a:hover {
     position: absolute;
     right: 0;
     bottom: 36px;
+	border-radius: 105px;
 }
 
 .about-style-six ul {

@@ -558,32 +558,14 @@ class Elementor_Header_Widget extends \Elementor\Widget_Base {
     <div class="top-bar-area multi-content bg-dark text-light">
         <div class="container">
             <div class="row align-center">
-                <div class="col-lg-3 logo">
+                <div class="col-lg-4 logo">
                     <?php if(!empty($cleanu_header_output['topbar_logo']['url'])): ?>
                         <a href="<?php echo esc_url(home_url());?>">
                             <img src="<?php echo esc_html($cleanu_header_output['topbar_logo']['url']);?>" class="logo" alt="<?php echo get_bloginfo( 'name' ); ?>">
                         </a>
                     <?php endif;?>
                 </div>
-                <div class="col-lg-9 info item-flex space-between">
-                     <ul>
-                        <?php foreach($cleanu_topbar_info_list as $single_topbar_info):?>
-                            <li>
-                                <?php 
-                                if(!empty($single_topbar_info['flat_icon'])):?>
-                                    <i class="<?php echo esc_attr($single_topbar_info['flat_icon_one']); ?>"></i>
-                                <?php endif;?>
-                                <?php if(!empty($single_topbar_info['icon_image']['url'])):?>
-                                    <img src="<?php echo esc_url($single_topbar_info['icon_image']['url']); ?>">
-                                <?php endif;?>
-                                <?php 
-                                if(!empty($single_topbar_info['custom_icon'])):?>
-                                    <i class="<?php echo esc_attr($single_topbar_info['custom_icon']); ?>"></i>
-                                <?php endif;?>
-                                <?php echo htmlspecialchars_decode(esc_html($single_topbar_info['topbar_info']));?>
-                            </li>
-                        <?php endforeach;?>
-                    </ul>
+                <div class="col-lg-8 info item-flex space-between">
                     <div class="social">
                         <ul>
                             <?php if(!empty($cleanu_header_output['topbar_fb_link']['url'])):?>
@@ -638,6 +620,24 @@ class Elementor_Header_Widget extends \Elementor\Widget_Base {
                             
                         </ul>
                     </div>
+                    <ul>
+                        <?php foreach($cleanu_topbar_info_list as $single_topbar_info):?>
+                            <li>
+                                <?php 
+                                if(!empty($single_topbar_info['flat_icon'])):?>
+                                    <i class="<?php echo esc_attr($single_topbar_info['flat_icon_one']); ?>"></i>
+                                <?php endif;?>
+                                <?php if(!empty($single_topbar_info['icon_image']['url'])):?>
+                                    <img src="<?php echo esc_url($single_topbar_info['icon_image']['url']); ?>">
+                                <?php endif;?>
+                                <?php 
+                                if(!empty($single_topbar_info['custom_icon'])):?>
+                                    <i class="<?php echo esc_attr($single_topbar_info['custom_icon']); ?>"></i>
+                                <?php endif;?>
+                                <?php echo htmlspecialchars_decode(esc_html($single_topbar_info['topbar_info']));?>
+                            </li>
+                        <?php endforeach;?>
+                    </ul>
                 </div>
             </div>
         </div>

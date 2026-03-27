@@ -1507,12 +1507,12 @@ nav.navbar.bootsnav {
 		top: 12px;
 	}
 	nav.navbar.bootsnav ul.nav>li>a {
-		font-size: 16px;
+		font-size: 14px;
 		letter-spacing: 0.06em;
 		padding: 35px 12px;
 		text-transform: uppercase;
 		font-family:var(--font-default);
-		font-weight: 600 !important;
+		font-weight: 400 !important;
 	}
 	nav.navbar.bootsnav ul.nav>li>a.active {
 		color:var(--color-primary);
@@ -2105,11 +2105,11 @@ nav.navbar.bootsnav {
 		top: 95px;
 		width: auto;
 		left: auto;
-		border-radius: 5px;
+		border-radius: 45px;
 	}
 	.nav-box.no-background .container.nav-container {
 		box-shadow: inherit;
-		padding: 0 40px;
+		padding: 0 60px;
 	}
 	.nav-box.no-background .container.nav-container .attr-nav .side-menu {
 		position: relative;
@@ -2124,7 +2124,7 @@ nav.navbar.bootsnav {
 		font-size: 18px;
 	}
 	.nav-box.no-background .container.nav-container ul.nav>li>a {
-		padding: 28px 15px;
+		padding: 28px 20px;
 		color: var(--white);
 	}
 	nav.navbar.bootsnav.navbar-fixed.nav-box.no-background ul.nav>li>a,

@@ -28,7 +28,7 @@ if(!function_exists('cleanu_onepage_menu')){
     <div class="top-bar-area multi-content bg-dark text-light">
         <div class="container">
             <div class="row align-center">
-                <div class="col-lg-3 logo">
+                <div class="col-lg-4 logo">
                     <a href="<?php echo esc_url(home_url('/')); ?>">
                         <?php 
                             global $cleanu_option;
@@ -39,7 +39,7 @@ if(!function_exists('cleanu_onepage_menu')){
                         <?php endif; ?> 
                     </a>
                 </div>
-                <div class="col-lg-9 info item-flex space-between">
+                <div class="col-lg-8 info item-flex space-between">
                     <ul>
                         <?php if(!empty($cleanu_option['header_working_hrs'])):?>
                             <li>
