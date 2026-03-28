@@ -1448,6 +1448,7 @@ a.btn-simple:hover {
 	line-height: 44px;
 	display: inline-block;
 	border: 1px solid rgba(255, 255, 255, 0.3);
+	background-color: #ededed;
 	text-align: center;
 	border-radius: 50%;
 	margin: 0;
@@ -1457,7 +1458,7 @@ a.btn-simple:hover {
 
 .top-bar-area.multi-content .social li a i {
 	margin: 0;
-	color: var(--white);
+	color: var(--color-primary);
 	font-size: 14px;
 	top: 0;
 }
@@ -1474,8 +1475,8 @@ a.btn-simple:hover {
         top: -135px;
         content: "";
         height: 200px;
-        width: 4000%;
-        background: var(--white);
+        width: 129%;
+        background: #f0f0f0;
         z-index: -1;
         transform: skewX(229deg);
 	}

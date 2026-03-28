@@ -555,7 +555,7 @@ class Elementor_Header_Widget extends \Elementor\Widget_Base {
 	?>
 	 <!-- Start Header Style One
     ============================================= -->
-    <div class="top-bar-area multi-content bg-dark text-light">
+    <div class="top-bar-area multi-content text-dark">
         <div class="container">
             <div class="row align-center">
                 <div class="col-lg-4 logo">

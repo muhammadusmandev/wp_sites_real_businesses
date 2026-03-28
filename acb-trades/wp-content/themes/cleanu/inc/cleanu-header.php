@@ -41,77 +41,17 @@ if(!function_exists('cleanu_main_menu')){
                 </div>
                 <div class="col-lg-8 info item-flex space-between">
                     <ul>
-                        <?php if(!empty($cleanu_option['header_working_hrs'])):?>
-                            <li>
-                                <i class="fas fa-clock"></i> <?php echo esc_html($cleanu_option['header_working_hrs']);?>
-                            </li>
-                        <?php endif;?>
                         <?php if(!empty($cleanu_option['header_info'])):?>
                             <li>
                                 <i class="fas fa-envelope-open-text"></i> <?php global $cleanu_option; echo esc_html($cleanu_option['header_info']);?>
                             </li>
                         <?php endif;?>
+                        <?php if(!empty($cleanu_option['header_working_hrs'])):?>
+                            <li>
+                                <i class="fas fa-clock"></i> <?php echo esc_html($cleanu_option['header_working_hrs']);?>
+                            </li>
+                        <?php endif;?>
                     </ul>
-                    <div class="social">
-                        <ul>
-                            <?php if(!empty($cleanu_option['header_fb_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_fb_url']);?>">
-                                        <i class="fab fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_twitter_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_twitter_url']);?>">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_linkdin_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_linkdin_url']);?>">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_instagram_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_instagram_url']);?>">
-                                        <i class="fab fa-instagram"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_pinterest_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_pinterest_url']);?>">
-                                        <i class="fab fa-pinterest"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_dribbble_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_dribbble_url']);?>">
-                                        <i class="fab fa-dribbble"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_behance_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_behance_url']);?>">
-                                        <i class="fab fa-behance"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                            <?php if(!empty($cleanu_option['header_youtube_url'])):?>
-                                <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_youtube_url']);?>">
-                                        <i class="fab fa-youtube"></i>
-                                    </a>
-                                </li>
-                            <?php endif;?>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
@@ -176,11 +116,66 @@ if(!function_exists('cleanu_main_menu')){
 
                             <!-- Start Atribute Navigation -->
                             <div class="col-lg-3">
-                                <div class="attr-nav">
+                                <div class="social">
                                     <ul>
-                                        <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
+                                        <?php if(!empty($cleanu_option['header_fb_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_fb_url']);?>">
+                                                    <i class="fab fa-facebook-f"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_twitter_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_twitter_url']);?>">
+                                                    <i class="fab fa-twitter"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_linkdin_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_linkdin_url']);?>">
+                                                    <i class="fab fa-linkedin-in"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_instagram_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_instagram_url']);?>">
+                                                    <i class="fab fa-instagram"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_pinterest_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_pinterest_url']);?>">
+                                                    <i class="fab fa-pinterest"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_dribbble_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_dribbble_url']);?>">
+                                                    <i class="fab fa-dribbble"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_behance_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_behance_url']);?>">
+                                                    <i class="fab fa-behance"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
+                                        <?php if(!empty($cleanu_option['header_youtube_url'])):?>
+                                            <li>
+                                                <a href="<?php echo esc_url($cleanu_option['header_youtube_url']);?>">
+                                                    <i class="fab fa-youtube"></i>
+                                                </a>
+                                            </li>
+                                        <?php endif;?>
                                     </ul>
-                                </div> 
+                                </div>
                             </div>       
                             <!-- End Atribute Navigation -->
                         </div>

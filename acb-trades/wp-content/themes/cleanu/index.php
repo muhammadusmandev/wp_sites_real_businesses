@@ -37,10 +37,10 @@
                     }elseif( ! is_active_sidebar( 'blog-sidebar' )) {
                         echo '<div class="blog-content col-lg-10 offset-lg-1 col-md-12">';
                     }else {
-                        echo '<div class="blog-content col-lg-8 col-md-12">';
+                        echo '<div class="blog-content">';
                     } 
                     ?>
-                        <div class="blog-item-box">
+                        <div class="blog-item-box row">
                             <?php
                                 if( have_posts() ):
                                     while( have_posts() ): the_post();
@@ -61,7 +61,7 @@
                     </div>
                     
                     <!-- Start Sidebar -->
-                    <?php get_sidebar(); ?>
+                    <?php //get_sidebar(); ?>
                     <!-- End Start Sidebar -->
 
                 </div>

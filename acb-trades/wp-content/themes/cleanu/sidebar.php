@@ -18,11 +18,11 @@ if ( ! is_active_sidebar( $sidebar ) ) {
 ?>
 
 <!-- Start Sidebar -->
-<?php if(is_active_sidebar('blog-sidebar')):?>
-    <div class="sidebar col-lg-4 col-md-12">
-    	<aside>
-           <?php dynamic_sidebar('blog-sidebar')?>
-        </aside>
-    </div>
-<?php endif;?>
+<?php //if(is_active_sidebar('blog-sidebar')):?>
+    <!-- <div class="sidebar col-lg-4 col-md-12"> -->
+    	<!-- <aside> -->
+           <?php //dynamic_sidebar('blog-sidebar') ?>
+        <!-- </aside> -->
+    <!-- </div> -->
+<?php //endif;?>
 <!-- End Start Sidebar -->

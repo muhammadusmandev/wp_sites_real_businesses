@@ -104,7 +104,7 @@
         $extra_class = 'thumb-less';
     } ?>
     <!-- Single Item -->
-    <div <?php post_class('single-item'); ?> >
+    <div class="col-lg-6 col-md-6 mb-5 <?php post_class('single-item'); ?>" >
         <div class="item <?php echo esc_attr($extra_class); ?>">
             <?php if( has_post_thumbnail() ): ?>
             <div class="thumb">
