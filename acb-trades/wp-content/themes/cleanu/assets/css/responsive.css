@@ -22,7 +22,15 @@
 		justify-content: space-between;
 	}
 	.top-bar-area .social li {
-		margin: 0 10px;
+		margin: 0 4px;
+	}
+	.top-bar-area .info li i {
+		margin-right: 5px;
+		top: 0px;
+	}
+
+	.top-bar-area ul {
+		font-size: 14px;
 	}
 	/* Banner */
 	body,
@@ -661,6 +669,13 @@
 	.navbar .attr-nav.button {
 		display: none;
 	}
+	nav.navbar.bootsnav .navbar-header{
+		text-align: end;
+	}
+	.navbar-brand>img {
+        height: 45px !important;
+        margin-top: 15px;
+    }
 	.side {
 		padding: 50px 50px 50px 35px;
 		width: 320px;
