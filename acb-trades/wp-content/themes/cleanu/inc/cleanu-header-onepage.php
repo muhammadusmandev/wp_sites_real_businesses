@@ -33,9 +33,9 @@ if(!function_exists('cleanu_onepage_menu')){
                         <?php 
                             global $cleanu_option;
                             if(!empty($cleanu_option['upload_header_logo'] )): ?>
-                            <img src="<?php echo esc_url($cleanu_option['upload_header_logo']['url']); ?>" class="logo" alt="<?php echo esc_attr__( 'cleanu', 'cleanu' ); ?>">
+                            <img src="<?php echo esc_url($cleanu_option['upload_header_logo']['url']); ?>" width="100%" height="100%" class="logo" alt="<?php echo esc_attr__( 'cleanu', 'cleanu' ); ?>">
                             <?php else: ?>
-                            <img src="<?php echo get_template_directory_uri() .'/assets/img/logo.svg' ;?>" class="logo" alt="<?php echo get_bloginfo( 'name' ); ?>">
+                            <img src="<?php echo get_template_directory_uri() .'/assets/img/logo.svg' ;?>" width="100%" height="100%" class="logo" alt="<?php echo get_bloginfo( 'name' ); ?>">
                         <?php endif; ?> 
                     </a>
                 </div>
@@ -56,56 +56,56 @@ if(!function_exists('cleanu_onepage_menu')){
                         <ul>
                             <?php if(!empty($cleanu_option['header_fb_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_fb_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_fb_url']);?>" aria-label="Facebook">
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_twitter_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_twitter_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_twitter_url']);?>" aria-label="Twitter">
                                         <i class="fab fa-twitter"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_linkdin_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_linkdin_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_linkdin_url']);?>" aria-label="Linkedin">
                                         <i class="fab fa-linkedin-in"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_instagram_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_instagram_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_instagram_url']);?>" aria-label="Instagram">
                                         <i class="fab fa-instagram"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_pinterest_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_pinterest_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_pinterest_url']);?>" aria-label="Pinterest">
                                         <i class="fab fa-pinterest"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_dribbble_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_dribbble_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_dribbble_url']);?>" aria-label="Dribbble">
                                         <i class="fab fa-dribbble"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_behance_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_behance_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_behance_url']);?>" aria-label="Behance">
                                         <i class="fab fa-behance"></i>
                                     </a>
                                 </li>
                             <?php endif;?>
                             <?php if(!empty($cleanu_option['header_youtube_url'])):?>
                                 <li>
-                                    <a href="<?php echo esc_url($cleanu_option['header_youtube_url']);?>">
+                                    <a href="<?php echo esc_url($cleanu_option['header_youtube_url']);?>" aria-label="Youtube">
                                         <i class="fab fa-youtube"></i>
                                     </a>
                                 </li>
@@ -141,7 +141,7 @@ if(!function_exists('cleanu_onepage_menu')){
                         <div class="row">
                             <!-- Start Header Navigation -->
                             <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu" aria-label="Toggle navigation">
                                     <i class="fa fa-bars"></i>
                                 </button>
                                 <a class="navbar-brand" href="<?php echo esc_url(home_url('/')); ?>">

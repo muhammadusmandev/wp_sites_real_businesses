@@ -1021,13 +1021,13 @@ class Elementor_Slider_Widget extends \Elementor\Widget_Base {
                     <div class="col-lg-7">
                         <div class="content">
                             <h2 class="wow slideInLeft"><?php echo htmlspecialchars_decode(esc_html($cleanu_slider_output['banner_subtitle_v6'],'cleanu-core')); ?></h2>
-							<h1 style="background-image: url(<?php echo esc_url($cleanu_slider_output['banner_title_image_v6']['url']) ?>); color: #1d2746; -webkit-background-clip: unset; -webkit-text-fill-color: unset; font-size: 70px; margin-top: 15px; text-transform: uppercase;"><?php echo htmlspecialchars_decode(esc_html($cleanu_slider_output['banner_title_v6'],'cleanu-core')); ?></h1>
+							<h1 style="color: #1d2746; -webkit-background-clip: unset; -webkit-text-fill-color: unset; font-size: 70px; margin-top: 15px; text-transform: uppercase;"><?php echo htmlspecialchars_decode(esc_html($cleanu_slider_output['banner_title_v6'],'cleanu-core')); ?></h1>
                             <p class="wow fadeInUp" data-wow-delay="900ms">
                                <?php echo htmlspecialchars_decode(esc_html($cleanu_slider_output['banner_content_v6'],'cleanu-core')); ?>
                             </p>
                             <?php if(!empty($cleanu_slider_output['banner_video_url_v6']['url'])):?>
 								<a class="btn btn-light primary effect btn-md wow fadeInDown" data-wow-delay="900ms" href="<?php echo esc_url($cleanu_slider_output['banner_video_url_v6']['url']); ?>"><?php echo esc_html($cleanu_slider_output['banner_video_txt_v6']); ?></a>
-	                            <a href="javascript:void(0)" class="video-btn"><i class="fal fa-phone"></i> Call Now: +971 544015796</a>
+	                            <span class="video-btn"><i class="fal fa-phone"></i> Call Now: +971 544015796</span>
 	                            
                             <?php endif;?>
                         </div>
