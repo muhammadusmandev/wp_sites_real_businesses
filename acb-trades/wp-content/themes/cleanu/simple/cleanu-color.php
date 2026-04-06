@@ -1472,12 +1472,12 @@ footer .f-items .f-item .address li i {
 
 
   
-  .blue .faq-area .faq-content .card .card-header h4 {
+  .blue .faq-area .faq-content .card .card-header h3 {
   background: var(--color-primary);
   }
 
   
-  .faq-area .faq-content .card .card-header h4 strong {
+  .faq-area .faq-content .card .card-header h3 strong {
   display: inline-block;
   height: 40px;
   width: 40px;
@@ -1491,7 +1491,7 @@ footer .f-items .f-item .address li i {
   min-width: 40px;
   }
   
-  .faq-area .faq-content .card .card-header h4 strong::after {
+  .faq-area .faq-content .card .card-header h3 strong::after {
   position: absolute;
   left: -10%;
   top: -10%;
@@ -1504,15 +1504,18 @@ footer .f-items .f-item .address li i {
   opacity: 0.3;
   }
   
-  .faq-area .faq-content .card .card-header h4 {
+  .faq-area .faq-content .card .card-header h3 {
   background: var(--color-primary);
   color: var(--white);
   padding: 20px;
   padding-right: 45px;
+  padding-left: 30px;
   border-radius: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 25px;
   }
   
-  .faq-area .faq-content .card .card-header h4.collapsed {
+  .faq-area .faq-content .card .card-header h3.collapsed {
   background: transparent;
   color: var(--color-heading);
   padding-right: 45px;

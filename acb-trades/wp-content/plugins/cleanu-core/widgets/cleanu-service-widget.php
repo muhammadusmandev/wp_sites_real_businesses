@@ -887,7 +887,7 @@ class Elementor_Service_Widget extends \Elementor\Widget_Base {
 	                            	<?php endif;?>
 	                            </div>
 	                            <div class="content">
-	                                <h4><a href="<?php echo esc_url($single_service_four['button_url']['url']);?>"><?php echo htmlspecialchars_decode(esc_html($single_service_four['service_title'],'cleanu-core')); ?></a></h4>
+	                                <h3><a href="<?php echo esc_url($single_service_four['button_url']['url']);?>"><?php echo htmlspecialchars_decode(esc_html($single_service_four['service_title'],'cleanu-core')); ?></a></h3>
 	                                <p>
 	                                    <?php echo htmlspecialchars_decode(esc_html($single_service_four['service_content'],'cleanu-core')); ?>
 	                                </p>

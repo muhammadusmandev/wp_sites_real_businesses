@@ -143,9 +143,9 @@ class Elementor_FAQ_Widget extends \Elementor\Widget_Base {
                             foreach($faq_lists as $faq_list):?>	
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
-                                        <h4 class="mb-0" data-toggle="collapse" data-target="#collapse<?php echo esc_attr($counter);?>" aria-expanded="true" aria-controls="collapse<?php echo esc_attr($counter);?>">
+                                        <h3 class="mb-0" data-toggle="collapse" data-target="#collapse<?php echo esc_attr($counter);?>" aria-expanded="true" aria-controls="collapse<?php echo esc_attr($counter);?>">
                                            <?php echo esc_html($faq_list['title']);?>
-                                        </h4>
+                                        </h3>
                                     </div>
 
                                     <div id="collapse<?php echo esc_attr($counter);?>" class="collapse <?php if($counter == 1) {echo esc_attr__("show",'cleanu-core');}?>" aria-labelledby="headingOne" data-parent="#accordionExample">

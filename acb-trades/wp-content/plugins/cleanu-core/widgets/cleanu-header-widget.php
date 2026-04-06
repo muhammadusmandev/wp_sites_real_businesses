@@ -672,7 +672,7 @@ class Elementor_Header_Widget extends \Elementor\Widget_Base {
                         <div class="row">
                             <!-- Start Header Navigation -->
                             <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" aria-label="Toggle navigation menu" data-target="#navbar-menu">
                                     <i class="fa fa-bars"></i>
                                 </button>
                                 <a class="navbar-brand" href="<?php echo esc_url(home_url());?>">
