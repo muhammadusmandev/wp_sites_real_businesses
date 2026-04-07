@@ -9191,6 +9191,26 @@ nav.navbar.bootsnav.bg-dark ul.nav>li>a:hover {
 		font-size: 30px !important;
 	}
 
+	.banner-area.banner-style-six.auto-height .content{
+	    padding-top: 105px;
+        padding-bottom: 250px;
+	}
+	.banner-area.banner-style-six.auto-height .content h1{
+	    font-size: 50px !important;
+	}
+	.banner-area.banner-style-six.auto-height .content h2 {
+        font-size: 25px !important;
+    }
+    .banner-area.banner-style-six.auto-height .content .video-btn {
+        font-size: 17px;
+        margin-top: 28px;
+        display: inline-block;
+    }
+    .banner-area.banner-style-six.auto-height .content .btn {
+        padding: 17px 40px;
+        font-size: 13px;
+    }
+
 	/* About */
 	.about-style-six .thumb {
 		grid-template-columns: 1fr;
