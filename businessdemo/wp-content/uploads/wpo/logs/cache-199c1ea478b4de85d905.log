@@ -457,3 +457,57 @@
 [2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
 [2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
 [2026-03-23 04:04:22 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-04-14 20:41:16 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:41:16 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 20:41:16 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:41:16 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 20:41:17 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:41:17 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 20:42:13 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:42:13 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 20:42:14 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:42:14 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 20:42:15 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 20:42:15 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 23:44:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 23:44:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 23:44:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 23:44:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 23:44:53 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/elsner-concrete-coatings/ has been purged, triggered by action: save_post 
+[2026-04-14 23:44:53 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Elsner Concrete Coatings" has been purged, triggered by action: save_post 
+[2026-04-14 23:59:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-14 23:59:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-14 23:59:52 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-14 23:59:52 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-14 23:59:54 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-14 23:59:54 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:01:45 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:01:45 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:01:45 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:01:45 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:01:48 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:01:48 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:08:34 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:08:34 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:08:34 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:08:34 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:08:36 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:08:36 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:12:37 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:12:37 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:12:37 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:12:37 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:12:39 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:12:39 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:25:48 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:25:48 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:25:49 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:25:49 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:25:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:25:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:30:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:30:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:30:52 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:30:52 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
+[2026-04-15 00:30:54 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home_jc_junk_removal/ has been purged, triggered by action: save_post 
+[2026-04-15 00:30:54 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home_J&#038;C_Junk_Removal" has been purged, triggered by action: save_post 
