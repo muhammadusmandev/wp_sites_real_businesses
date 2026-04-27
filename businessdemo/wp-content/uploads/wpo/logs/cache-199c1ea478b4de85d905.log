@@ -739,3 +739,45 @@
 [2026-04-25 04:47:31 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "DG Landscapes" has been purged, triggered by action: save_post 
 [2026-04-25 04:47:33 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/dg-landscapes/ has been purged, triggered by action: save_post 
 [2026-04-25 04:47:33 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "DG Landscapes" has been purged, triggered by action: save_post 
+[2026-04-27 07:16:02 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/dg-landscapes/ has been purged, triggered by action: save_post 
+[2026-04-27 07:16:02 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "DG Landscapes" has been purged, triggered by action: save_post 
+[2026-04-27 07:16:03 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/dg-landscapes/ has been purged, triggered by action: save_post 
+[2026-04-27 07:16:03 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "DG Landscapes" has been purged, triggered by action: save_post 
+[2026-04-27 07:16:05 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/dg-landscapes/ has been purged, triggered by action: save_post 
+[2026-04-27 07:16:05 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "DG Landscapes" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:15 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:15 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:15 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:15 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:18 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:18 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:50 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:50 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:51 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:51 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:23:53 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:23:53 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:30:01 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:30:01 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:30:01 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:30:01 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:30:03 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:30:03 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:20 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:20 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:21 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:21 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:24 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:24 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:45 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:45 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:45 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:45 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:31:47 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:31:47 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:54:29 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:54:29 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:54:30 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:54:30 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-27 07:54:32 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
+[2026-04-27 07:54:32 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
