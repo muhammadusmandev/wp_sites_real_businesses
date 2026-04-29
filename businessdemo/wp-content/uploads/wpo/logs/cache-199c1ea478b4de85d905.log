@@ -781,3 +781,15 @@
 [2026-04-27 07:54:30 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
 [2026-04-27 07:54:32 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/khloe-landscape/ has been purged, triggered by action: save_post 
 [2026-04-27 07:54:32 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Khloe Landscape" has been purged, triggered by action: save_post 
+[2026-04-29 04:11:16 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:11:16 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
+[2026-04-29 04:11:16 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:11:16 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
+[2026-04-29 04:11:19 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:11:19 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
+[2026-04-29 04:12:41 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:12:41 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
+[2026-04-29 04:12:42 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:12:42 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
+[2026-04-29 04:12:45 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/roof-response/ has been purged, triggered by action: save_post 
+[2026-04-29 04:12:45 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Roof Response" has been purged, triggered by action: save_post 
