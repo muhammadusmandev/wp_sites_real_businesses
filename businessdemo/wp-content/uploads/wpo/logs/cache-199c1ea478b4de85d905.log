@@ -911,3 +911,9 @@
 [2026-05-05 18:52:12 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home R&amp;V Landscaping" has been purged, triggered by action: save_post 
 [2026-05-05 18:52:14 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home-rv-landscaping/ has been purged, triggered by action: save_post 
 [2026-05-05 18:52:14 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home R&amp;V Landscaping" has been purged, triggered by action: save_post 
+[2026-05-06 19:02:20 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home-rv-landscaping/ has been purged, triggered by action: save_post 
+[2026-05-06 19:02:20 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home R&amp;V Landscaping" has been purged, triggered by action: save_post 
+[2026-05-06 19:02:30 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home-rv-landscaping/ has been purged, triggered by action: save_post 
+[2026-05-06 19:02:30 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home R&amp;V Landscaping" has been purged, triggered by action: save_post 
+[2026-05-06 19:02:46 : INFO] - Cache for URL: http://localhost/wp_c/businessdemo/home-rv-landscaping/ has been purged, triggered by action: save_post 
+[2026-05-06 19:02:46 : INFO] - Cache for author page URL: http://localhost/wp_c/businessdemo/author/root/ associated with post_type: page and Title: "Home R&amp;V Landscaping" has been purged, triggered by action: save_post 
